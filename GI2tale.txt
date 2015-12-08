@@ -1,0 +1,48 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching “Samu” (https://github.com/nbatfai/samu). But you feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) István G. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+
+Once upon a time, there was a king.
+His name was Sándor.
+Sándor was tall and strong, so everybody was afraid of him.
+One day he became sick.
+He was visited by thousands of doctors, but they didn't know what his disease was.
+
+And then suddenly a peasant appeared in the town.
+Hello, my name is Józsi - salute to everyone.
+Hello Józsi - welcomed.
+Our king is very sick. 
+Are you proficient in medicine? - they asked.
+
+Maybe. I want to meet the king. - answered.
+That's all right. 
+When he entered the king's room, he saw the king was in his bed.
+What is the problem? - asked.
+Emm, my stomach, and my throat hurts.
+
+I'll heal you.
+In my country we drink pálinka in such situation.
+What is the pálinka? I never heard this word.
+The pálinka is a special juice.
+You are fortunate, I have a bottle of pálinka now.
+
+I want that. Give me.
+It was expensive. What will you give me for it?
+What you want? -asked Sándor.
+I want a bag of gold.
+That's all right. If it helps me, you get your awards.
+
+The king drink from the bottle. 
+It burns, poison. Cut off his head. - shouted.
+No, no. I did not do anything wrong. - Józsi defended himself.
+But, it was in vain, the soldiers took him, and cut off his head.
+Meanwhile the king felt better himself, so drink and drink from the bottle. 
+
+10 minutes later, he jump out from his bed.
+He danced in the middle of the room. 
+He remembered the farmer suddenly.
+What have I done? Where can I find more juice?
+The next day he realized, if he conquers the world, he could find the source of the pálinka. 
+
+But it is another story.
