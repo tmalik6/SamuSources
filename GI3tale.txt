@@ -1,0 +1,60 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching “Samu” (https://github.com/nbatfai/samu). But you feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) István G. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+Once upon a time, there was a man.
+His name was Ákos.
+One day a flash stuck into a wood.
+The tree fallen, and caught on fire.
+Ákos saw, it is good. 
+
+It will be the fire. - he said, and invented the fire.
+He decided to bring home the tree and the fire.
+First he wanted to pick it up, but the tree was heavy, and the fire was hot.
+It will be difficult. - he thought.
+Then he wanted to pull the tree, but it did not move.
+
+How could I take it home? - thought.
+At this moment another lightning struck another tree.
+This tree was standing on a hill.
+This tree fell too, by the flash.
+But it began to roll down the hill.
+
+Hmm, it's looks easy. 
+I try this with my tree. - he said to himself.
+And it worked. 
+The tree did not stop. 
+Just rolled and rolled.
+
+Ákos saw, it is good. 
+It will be the wheel. - he said, and invented the wheel.
+Later he built a vehicle, with four wheels. 
+He delivered everything what he want, easier.
+It will be the chariot. - he said, and invented the chariot.
+
+Later he moved the chariot by animals. 
+It was the best mode of transport.
+Until now, he lived in a cave, but he wanted more.
+He build himself a wooden house.
+He liked it, and he was happy, because he could do everything what he wanted.
+
+One day, he went hunting. 
+When he walked, he met a girl. He fell in love.
+But the girl did not sympathize with him. 
+He was unhappy, but suddenly he had an idea.
+He knocks her out and takes him home.
+
+And he did it.
+And he was happy again. 
+You will be my wife. - he said to her.
+The girl had no choice. 
+But the first night she knocked out Ákos, and she escaped.
+
+Ákos was unhappy again. 
+At that time, the fruits were rotting.
+When he ate a lot's of rotten apple, he was happier.
+Ákos saw, it is good. 
+It's will be the drunkennes. - he said.
+
+And this was the point when he went the wrong way.
+Every day he wanted to be happier.
