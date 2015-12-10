@@ -1,0 +1,30 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching “Samu” (https://github.com/nbatfai/samu). But you feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) Nikolett S. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+The Evil Alien
+
+Once upon a time an alien landed with his spacecraft on Earth.
+He traveled to Hungary.
+He heard that the most beautiful womens live there.
+He also wanted to taste the famous hungarian meals and drinks.
+He made a lot of friendship.
+He had an easy job.
+He was a shapeshifter alien.
+He could change his appearance whenever he wanted.
+He found out he has to be handsome to get a girl.
+He changed his look to a super model male. 
+He went to bar.
+It was crowded with beautiful woman.
+So he picked the nicest and asked her for a date.
+They fell in love easily.
+After a few months they were expecting a child.
+It revealed that they are going to have triplets.
+The little aliens became older.
+The father wanted to move with his family to his own planet.
+His planet was placed in a distant galaxy.
+Nobody thought that he has an evil plan to destroy the earth.
+Fortunately Bátfai Samu came alive and saved our planet.
+Everybody was celebrating him as the biggest hero of all time.
+So the earth stayed a safe place.
+The question is: are they still live among us?
