@@ -1,0 +1,39 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching “Samu” (https://github.com/nbatfai/samu). But you feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) Miklos L. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+Nick likes science.
+He is a scientist.
+he is smart.
+He invents new things.
+He likes iron.
+He likes wood.
+He likes to design.
+He invented a new powder.
+This powder is cheap.
+It is red.
+It is healthy to use it.
+It tastes like berry.
+He gives it to a company.
+He gets money for it.
+But the powder is complex.
+The company cannot produce the powder.
+Nick and the company had argument.
+They talked much.
+They drink water.
+Nick helped the company.
+Nick and the company made a new agreement.
+The company produced a different powder.
+It was blue.
+It was salty.
+It is not taste like berry.
+It tasted like salt.
+It was because a wrong chemical.
+It was not healthy.
+The company got much money for the powder.
+Nick was sad.
+He made a bad decision.
+He starts designing a new invention.
+It will be better.
+He will not give it to the company.
+He learnt from this.

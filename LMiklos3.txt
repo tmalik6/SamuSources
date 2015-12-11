@@ -1,0 +1,33 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching Samu (https://github.com/nbatfai/samu). But you feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) Miklos L. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+It was a winter night.
+It was cold.
+Annie has a house in the woods.
+She is there with her family.
+She has a son.
+His name is Alex.
+She has a daugther.
+Her name is Amber.
+The night was dark.
+Alex feared the dark.
+He drank a glass of milk.
+He felt better after that.
+The fireplace was warm.
+It felt good.
+Amber likes snow.
+She likes making snowballs.
+But it was dark for her to do that.
+She wanted to play with his brother.
+But it was dangerous in that cold.
+So they didn't go out.
+The house was comfortable.
+So they felt good.
+Annie made some food.
+Amber and Alex ate it.
+Alex wanted to sleep.
+But Amber didn't want.
+She had a glass of milk too.
+After that she wanted to sleep too.
+They went to sleep.
