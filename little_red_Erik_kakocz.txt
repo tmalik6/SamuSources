@@ -1,0 +1,37 @@
+/*Learning sources for deep Q learning projects. Originally it was a university project for teaching Samu (https://github.com/nbatfai/samu). Feel free to use in your Deep Q learning project.
+
+All files here have the following licens: Copyright (C) Erik K. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, Blue Front-Cover Texts, and Dark Green Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".*/
+
+Little Red was going to her grandmother.
+Her grandmother was very ill.
+Red was bringing food to her grandmother in her basket.
+Red was going trough a forest.
+Red saw a wolf approaching her.
+Red frightened.
+The Wolf stopped in front of her.
+The Wolf said: "Greetings Little girl. Please give me something to eat!".
+Red said: "Sorry but i can't, this is for my grandma.".
+The Wolf replied: "Please, help! I'm starving.".
+Red looked at the Wolf.
+The Wolf was skinny.
+Red thought:"Maybe grandmother can spare a little food."
+Red gave a sausage from her basket to the wolf.
+The Wolf thanked Red.
+The Wolf went away with the sausage.
+Red went to grandmothers house.
+Red greeted her grandmother.
+Her grandmother was lying in her bed.
+Her grandmother looked at Red and greeted back.
+Red gave her grandmother the basket.
+Her grandmother looked in the basket.
+Her grandmother yelled at Red:"Is this all you could bring? Wasn't your Grandma worth more than this".
+Her grandmother flung the basket at Red.
+Red took the basket and ran out crying.
+Red was wandering the forest unsure what to do.
+Red couldn't go home, her family would've been very angry at her.
+Suddenly the Wolf appeared.
+The Wolf asked: "What is the problem little girl?"
+Red told him.
+The Wolf said: "Don't worry about it. There always will be ungrateful people. You did well by helping me. It's my turn to help you."
+The Wolf lead Red to his cave and gave her a new home.
+And they lived happily after.
