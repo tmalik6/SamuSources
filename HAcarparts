@@ -1,0 +1,40 @@
+//<samucarparts is an input file, for the Samu projects. See the projects at <https://github.com/nbatfai/samu>>
+// 
+//    Copyright (C) 2015 Hegedűs Attila
+//
+//    Permission is granted to copy, distribute and/or modify this document
+//    under the terms of the GNU Free Documentation License, Version 1.3
+//    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+//    A copy of the license is included in the section entitled "GNU
+//    Free Documentation License".
+The car has doors.
+The car has tires.
+The car has seats.
+The car has headlights.
+The car has taillights.
+The car has mirrors.
+The car has bumpers.
+The car has a battery.
+The car has an exhaust.
+The car has a windshield.
+The car has windows.
+The car has airbags.
+The car has a radiator.
+The car has a trunk.
+The car has a transmission.
+The car has brakes.
+The car has a suspension.
+The car has cables.
+The car has an engine.
+The car has a dashboard.
+The engine has pistons.
+The engine has filters.
+The engine has belts.
+The engine has axes.
+The car needs fuel.
+The engine needs oil.
+The fuel is in the tank.
+The seat has a belt.
+The seat has a cover.
+The dashboard has a speedometer.
+The dashboard has a tachometer.

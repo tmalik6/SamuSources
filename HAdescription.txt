@@ -1,0 +1,5 @@
+The 4 tales are made.
+HAcarparts has 29 triplets.
+HAday has 15 triplets.
+HAdiary has 13 triplets.
+HApprecipe has 12 triplests.
