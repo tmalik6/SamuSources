@@ -1,0 +1,23 @@
+The 3 tales are made from "Basic English" words
+(https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_alphabetical_wordlist),
+but the third has 14 more words in it.
+These are:
+-want
+-catch
+-tell
+-freedom
+-listen
+-frighten
+-understand
+-realize
+-belong
+-nature
+-human
+-around
+-eat
+-life
+
+They're suitable for 5-10 years old children.
+You can find 12 triplets in tale1.
+You can find 8 triplets in tale2.
+You can find 5 triplets in tale3.
